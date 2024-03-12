@@ -1,0 +1,6 @@
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  /* Remove align-items property */
+  height: 100vh;
+}

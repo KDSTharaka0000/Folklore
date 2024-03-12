@@ -1,0 +1,13 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  /* Remove align-items property */
+  height: 100vh;
+}
